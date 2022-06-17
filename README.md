@@ -1,5 +1,6 @@
 # scuffle-stars
 GAME SUMMARY
+
 Scuffle Stars is a single-player, quick top-down shooter game where ten players, the user and nine other programmed bots, face off in a battlefield to be the last one standing.
 
 The game features various unique characters, called Scufflers, which can be selected by the player in a pre-game menu before starting a match. When a player starts a match, opponent Scufflers are randomized.
@@ -10,14 +11,17 @@ The battlefield has walls to provide cover from enemy fire, as well as patches o
 
 
 NOTICE
+
 This code is a demo version of Scuffle Stars. Currently it only serves as a rudimentary simulation for each Scuffler, showcasing the basic features of the full game. It does not have any actual interactive capability at the moment. Many of the features described above have not yet been implemented, including map bounds, enemy bots, lobby and matchmaking, sprites and animations, and music and sound. 
 
 
 PROGRAM INFO
+
 This program is written in Java, and utilizes various features outside of basic functionality including swing graphics, key and mouse input, array lists, and timers.
 
 
 GAME SETUP
+
 1. Install OpenJDK: https://adoptium.net/.
 2. Install jGRASP: https://www.jgrasp.org/.
 3. Open the Main.java file with jGRASP.
