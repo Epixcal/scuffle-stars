@@ -10,14 +10,17 @@ Each Scuffler has a unique base attack, health, and speed, and has a special abi
 The battlefield has walls to provide cover from enemy fire, as well as patches of bushes, that when inside will completely conceal the position of a player from opponents unless they are in close enough proximity to where the player is. A danger area that damage players when inside will gradually start closing in, acting as a zone to force players to get closer to each other as a certain amount of time progresses. 
 
 
+
 NOTICE
 
 This code is a demo version of Scuffle Stars. Currently it only serves as a rudimentary simulation for each Scuffler, showcasing the basic features of the full game. It does not have any actual interactive capability at the moment. Many of the features described above have not yet been implemented, including map bounds, enemy bots, lobby and matchmaking, sprites and animations, and music and sound. 
 
 
+
 PROGRAM INFO
 
 This program is written in Java, and utilizes various features outside of basic functionality including swing graphics, key and mouse input, array lists, and timers.
+
 
 
 GAME SETUP
