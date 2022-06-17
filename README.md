@@ -32,9 +32,10 @@ GAME SETUP
 
 1. Install OpenJDK: https://adoptium.net/.
 2. Install jGRASP: https://www.jgrasp.org/.
-3. Open the Main.java file with jGRASP.
-4. To run code, press CTRL + R within the Main class in jGRSAP.
-5. To change Scuffler, change the text within the scufflerID instance field located at the top of the Main class (line 9). 
+3. Download and extract all files from zip file into a folder. 
+4. Open the Main.java file with jGRASP.
+5. To run code, press CTRL + R within the Main class in jGRSAP. Make sure that all files are located in the same folder.
+6. To change Scuffler, change the text within the scufflerID instance field located at the top of the Main class (line 9). 
 The five IDs are COLT, PRIMO, PIPER, SPROUT, and LEON.
 
 
